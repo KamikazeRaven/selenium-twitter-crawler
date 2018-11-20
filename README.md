@@ -15,3 +15,5 @@ One line down you'll find the place to set your stoping date.
 then variable 'keyword1' and 'keyword2' are the keyword you want to search. You can just have one, or add more. One nice thing about Twitter website search is that it's not case sensitive.
 
 This program might not work as expected on your machine. You can modify it to fit your needs.
+
+P.S. I'm still working on it. There are a few bugs need fixing.
