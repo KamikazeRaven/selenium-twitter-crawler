@@ -1,7 +1,7 @@
 # selenium-twitter-crawler
 This python program bypass the twitter API limitations and utilizes the library Selenium and Beautiful Soup to scrap tweet from twitter's website with the advanced search function. There is no need to log in your twitter account.
 
-Twitter's API does not allow you to collect tweets older than 2 weeks. This program bypass that limitation by using selenium to manipulate twitter's website. Twitter allows people to search historical tweets on their website.
+Twitter's API does not allow you to collect tweets older than 2 weeks. This program bypass that limitation by using selenium to visit twitter's website. Twitter allows people to search historical tweets on their website.
 
 Please know that this is a very simple program that I specifically built for one of my project. I think it might be useful to twitter crawling in gernal, so I upload it here. This program won't be very user friendly.
 
